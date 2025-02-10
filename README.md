@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Alexandre Reis!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-reisjr&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-reisjr&size_weight=0.5&count_weight=0.5&theme=dark)
+
 
 
 
@@ -15,6 +15,9 @@ Frameworks: React.js, Vue.js (sempre buscando aprender mais!).
 Ferramentas de build: Webpack, Babel.
 Versionamento: Git e GitHub.
 Pré-processadores CSS: Sass.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-reisjr&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-reisjr&size_weight=0.5&count_weight=0.5&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
