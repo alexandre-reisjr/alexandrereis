@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Alexandre Reis!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-reisjr&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-reisjr&size_weight=0.5&count_weight=0.5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-reisjr&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-reisjr&size_weight=0.5&count_weight=0.5&theme=dark)
 
 
 
@@ -48,4 +48,8 @@ Aprender novas ferramentas e técnicas para expandir meu conhecimento.
   
 </div>
 
-Vamos codar juntos! 💻✨
+
+
+
+
+ Vamos codar juntos! 💻✨
